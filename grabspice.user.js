@@ -17,7 +17,7 @@
 // Global variables.
 // Since we have to intercept the site's requests, getvalue and setvalue aren't possible,
 // so actually configuring these isn't really a thing we can do. Well, easily at least.
-let debug = true;
+let debug = false;
 let verbose = false;
 let GSVer = "1775621006138";
 let sName = "Grabby Spice";
