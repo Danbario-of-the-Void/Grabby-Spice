@@ -15,7 +15,7 @@
 /* globals xhook CRC32 */
 
 // Global variables.
-let debug = true;
+let debug = false;
 let verbose = false;
 let GSVer = "1777604579957";
 let sName = "Grabby Spice";
