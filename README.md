@@ -9,5 +9,7 @@ As a prerequisite, a userscript manager is obviously required. I recommend [Viol
 ## Limitations
 This script can only download information that's publicly available. It won't allow you to access the definitions of closed bots, and if you attempt to download such a bot, you'll get a card that only has what you can see on the info page.
 
+Animated images can't be downloaded.
+
 ## Known Issues
-Currently, the script doesn't work unless you open a bot's info page in a new tab or refresh it.
+None currently.
